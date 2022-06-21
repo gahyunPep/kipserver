@@ -1,5 +1,7 @@
 [
-  {
+{
+	kpis:
+	  {
     "id": 1,
     "title": "VR Assessment Completion",
     "reportLink": "https://powerbiqa.phsa.ca/Reports/powerbi/DEV/PowerBI/OneChart?rs:Command=Render&rc:Toolbar=false&filterPaneEnabled=false&navContentPaneEnabled=false",
@@ -29,4 +31,6 @@
     "reportLink": "https://powerbiqa.phsa.ca/Reports/powerbi/DEV/PowerBI/OneChart?rs:Command=Render&rc:Toolbar=false&filterPaneEnabled=false&navContentPaneEnabled=false",
     "isFavorite": "false"
   }
+
+}
 ]
