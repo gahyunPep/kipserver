@@ -28,47 +28,5 @@
     "title": "Program Mapping Audit Report",
     "reportLink": "https://powerbiqa.phsa.ca/Reports/powerbi/DEV/PowerBI/OneChart?rs:Command=Render&rc:Toolbar=false&filterPaneEnabled=false&navContentPaneEnabled=false",
     "isFavorite": "false"
-  },
-  {
-    "id": 6,
-    "title": "Baseline Assessments",
-    "reportLink": "https://powerbiqa.phsa.ca/Reports/powerbi/DEV/PowerBI/OneChart?rs:Command=Render&rc:Toolbar=false&filterPaneEnabled=false&navContentPaneEnabled=false",
-    "isFavorite": "false"
-  },
-  {
-    "id": 7,
-    "title": "Fit Testing Compliance Completion",
-    "reportLink": "https://powerbiqa.phsa.ca/Reports/powerbi/DEV/PowerBI/OneChart?rs:Command=Render&rc:Toolbar=false&filterPaneEnabled=false&navContentPaneEnabled=false",
-    "isFavorite": "false"
-  },
-  {
-    "id": 8,
-    "title": "Influenza Dashboard",
-    "reportLink": "https://powerbiqa.phsa.ca/Reports/powerbi/DEV/PowerBI/OneChart?rs:Command=Render&rc:Toolbar=false&filterPaneEnabled=false&navContentPaneEnabled=false",
-    "isFavorite": "false"
-  },
-  {
-    "id": 9,
-    "title": "Manager Initiated Investigations",
-    "reportLink": "https://powerbiqa.phsa.ca/Reports/powerbi/DEV/PowerBI/OneChart?rs:Command=Render&rc:Toolbar=false&filterPaneEnabled=false&navContentPaneEnabled=false",
-    "isFavorite": "false"
-  },
-  {
-    "id": 10,
-    "title": "Investigations Submitted in less than 2 days",
-    "reportLink": "https://powerbiqa.phsa.ca/Reports/powerbi/DEV/PowerBI/OneChart?rs:Command=Render&rc:Toolbar=false&filterPaneEnabled=false&navContentPaneEnabled=false",
-    "isFavorite": "false"
-  },
-  {
-    "id": 11,
-    "title": "Outstanding Investigations",
-    "reportLink": "https://powerbiqa.phsa.ca/Reports/powerbi/DEV/PowerBI/OneChart?rs:Command=Render&rc:Toolbar=false&filterPaneEnabled=false&navContentPaneEnabled=false",
-    "isFavorite": "false"
-  },
-  {
-    "id": 12,
-    "title": "Immunization Rates",
-    "reportLink": "https://powerbiqa.phsa.ca/Reports/powerbi/DEV/PowerBI/OneChart?rs:Command=Render&rc:Toolbar=false&filterPaneEnabled=false&navContentPaneEnabled=false",
-    "isFavorite": "false"
   }
 ]
